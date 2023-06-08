@@ -2,7 +2,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 const devMode = true;
-const BUILD_PATH = '/dist/micro-frontend';
+const BUILD_PATH = '/dist/test';
 
 module.exports = {
   entry: './src/App.jsx',
