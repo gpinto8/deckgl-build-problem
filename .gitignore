@@ -1,0 +1,6 @@
+angular-host/node_modules
+angular-host/dist
+angular-host/package-lock.json
+react-mfe/node_modules
+react-mfe/dist
+react-mfe/package-lock.json
